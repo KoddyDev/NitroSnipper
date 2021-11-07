@@ -1,0 +1,12 @@
+{
+  "name": "UserNitroSelf",
+  "version": "1.0.0",
+  "main": "Bot.js",
+  "license": "MIT",
+  "author": "KoddyDev",
+  "description": "Um bot que pega nitro em mensagem e resgata na sua conta.",
+  "dependencies": {
+    "discord.js": "12.5.1",
+    "superagent": "^6.1.0"
+  }
+}
